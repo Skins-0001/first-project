@@ -1,0 +1,23 @@
+.discord-text {
+    color: black;
+}
+
+.navigation-bar {
+    background-color: pink;
+
+}
+
+#nav-image {
+    width: 20%;
+}
+
+#nav-options li {
+    height: auto;
+    width: 160px;
+    font-size: 25px;
+    margin: 30px;
+    float: right;
+    display: inline;
+    overflow: hidden;
+    text-decoration: none;
+}
